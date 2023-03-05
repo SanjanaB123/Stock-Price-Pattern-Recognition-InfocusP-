@@ -1,0 +1,15 @@
+HOW TO USE:
+In the second cell of the notebook, enter the path to your data for the filepath variable. 
+
+INPUTS:
+1) path to the data
+2) start date and end date
+
+DEPENDENCIES:
+Dependencies for running this file are all the imports mentioned below.
+
+import pandas as pd
+import numpy as np 
+import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+from datetime import datetime,timedelta
